@@ -1,0 +1,8 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        maven { url = 'https://frcmaven.wpi.edu/artifactory/release/' }
+    }
+}
+
+rootProject.name = 'FRC-Curso-2026'
